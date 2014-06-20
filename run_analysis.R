@@ -54,5 +54,6 @@ data3 <- ddply(melt(data2, id.vars = c( "Activity", 'Subject')), .(Subject, Acti
 
 
 #Export data into a .txt file.
-write.table(data3, "tidydata.txt", sep = "\t")
+write.table(data2, "tidydata.txt", sep = "\t")
+write.table(data3, "tidyMean.txt", sep = "\t")
 
