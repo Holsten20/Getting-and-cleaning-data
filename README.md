@@ -12,6 +12,6 @@ Getting-and-cleaning-data
 
 ####Running the script
 
-To run the script,download the script to your working directory  Then source the file locally via
+To run the script, you can download the script to your working directory. Then source the file locally via
 <pre>source (run_analysis.R)
 </pre>
