@@ -32,4 +32,4 @@ This will run the run_analysis.R script, which will read in data from the UCI HA
 
 The script normally runs for ~30 seconds, but the exact number depends on your system.
 
-For more information about run_analysis, refer to the CodeBook.md
+For more information about run_analysis.R script, refer to the CodeBook.md
