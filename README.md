@@ -1,5 +1,12 @@
 Getting-and-cleaning-data
 =========================
+
+This repository contains the following files:
+* README.md
+* Codebook.md 
+* run_analysis.R
+* UCI HAR Dataset
+
 ###run_analysis.R
 
 ####The R script (run_analysis.R) does the following:
@@ -12,6 +19,7 @@ Getting-and-cleaning-data
 
 ####Running the script
 
-To run the script, you can download the script to your working directory. Then source the file locally via
+To run the script, you can clone the repository to your local computer and then copy the UCI HAR Dataset and script to your R working directory.<br/>
+OR download the zip to your computer and then copy the UCI HAR Dataset and script to your R working directory. Then source the file locally via
 <pre>source (run_analysis.R)
 </pre>
