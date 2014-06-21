@@ -1,6 +1,6 @@
 #Codebook
 
-##The Guide for interpreting each variable
+##The Data Dictionary.
 
 **X, Y, Z**: the axis of X, Y and Z (signals can be in the X, Y and Z directions).<br/>
 **t** (at the beginning of the variable names): time domain signals.<br/>
@@ -16,9 +16,9 @@
 **Mag**: magnitude of the three-dimensional signals calculated using the Euclidean norm.<br/>
 **Gravity**: The signals related to the gravity.<br/>
 **Subject**: The numbers between 1 to 30 which are identifiers of the subjects (individuals) who carried out the experiment.<br/>
-**Activity**: including 6 activities performed by subjects <span style = "font-size: 15px; font-weight: bold" >(STANDING, SITTING, LAYING, WALKING, WALKING_DOWNSTAIRS,<br/> WALKING_UPSTAIRS)</span>
+**Activity**: including 6 activities performed by subjects **(STANDING, SITTING, LAYING, WALKING, WALKING_DOWNSTAIRS,<br/> WALKING_UPSTAIRS)**
 
-#The names of the variables
+#The names of the variables.
 
 
 ##Variables with mean measurements:
